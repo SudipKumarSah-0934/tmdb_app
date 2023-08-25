@@ -69,7 +69,8 @@ retrofit_generator: 7.0.8
 floor_generator: 1.4.2
 
 build_runner: 2.4.6
-
+## Screenshots
+https://github.com/SudipKumarSah-0934/tmdb_app/issues/1#issue-1866679245
 
 
 
