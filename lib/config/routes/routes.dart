@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 import '../../features/all_movies/domain/entities/movies_list.dart';
-import '../../features/all_movies/presentation/pages/article_detail/article_detail.dart';
+import '../../features/all_movies/presentation/pages/movie_detail/movie_detail.dart';
 import '../../features/all_movies/presentation/pages/home/home_page.dart';
 import '../../features/all_movies/presentation/pages/saved_movies/saved_movies.dart';
 

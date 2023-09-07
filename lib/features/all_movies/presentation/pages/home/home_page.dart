@@ -1,13 +1,11 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutter_svg/svg.dart';
 import 'package:updated_tmdb_app/features/all_movies/data/models/movies_list_model.dart';
-import '../../../../../core/constants/constants.dart';
 import '../../../domain/entities/movies_list.dart';
 import '../../bloc/movies/remote/remote_movie_bloc.dart';
 import '../../bloc/movies/remote/remote_movie_state.dart';
-import '../../widgets/article_tile.dart';
+import '../../widgets/movie_tile.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);

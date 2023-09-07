@@ -9,7 +9,7 @@ import '../../../domain/entities/movies_list.dart';
 import '../../bloc/movies/local/local_movie_bloc.dart';
 import '../../bloc/movies/local/local_movie_event.dart';
 import '../../bloc/movies/local/local_movie_state.dart';
-import '../../widgets/article_tile.dart';
+import '../../widgets/movie_tile.dart';
 
 class SavedMovies extends HookWidget {
   const SavedMovies({Key ? key}) : super(key: key);
